@@ -1,6 +1,3 @@
-# Agrinho-2026
-Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
